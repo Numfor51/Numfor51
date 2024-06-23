@@ -4,7 +4,7 @@
 
 🌱 I’m currently Practicing the following (SQL, Power BI, Python $ Tableau ) for Data Analysis
 
-💞️ I’m looking to collaborate with IT Support Specialists all over the world.
+💞️ I’m looking forward to collaborating with IT Support Specialists all over the world.
 
 📫 How to reach me: numforluc@gmail.com
 
