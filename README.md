@@ -1,10 +1,10 @@
-👋 Hi, I’m Luc Numfor
+👋 Hi, I’m Numfor Lucas
 
-👀 I am interested in IT Support Services
+👀 I am a Data Analyst and very much interested in other IT Support Services.
 
-🌱 I’m currently Practicing Data Analytics( SQL,Power BI, Python $ Tableau )
+🌱 I’m currently Practicing the following (SQL, Power BI, Python $ Tableau ) for Data Analysis
 
-💞️ I’m looking to collaborate with IT Support Specialists
+💞️ I’m looking to collaborate with IT Support Specialists all over the world.
 
 📫 How to reach me: numforluc@gmail.com
 
