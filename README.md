@@ -2,9 +2,9 @@
 
 👀 I am a Data Analyst and very much interested in other IT Support Services.
 
-🌱 I’m currently Practicing the following (SQL, Power BI, Python $ Tableau ) for Data Analysis
+🌱 I am proficient in (SQL, Power BI, Python $ Tableau ) for Data Analysis.
 
-💞️ I’m looking forward to collaborating with IT Support Specialists all over the world.
+💞️ I’m looking forward to collaborating with IT Support Specialists, Data Analysts all over the world.
 
 📫 How to reach me: numforluc@gmail.com
 
